@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Trevor Ragazzo"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,8 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer    
+I attended Paraclete High School for four years, I graduated in 2021. Now I am a student at Northern Arizona University in flagstaff and I am planing to graduate from there in 2025. In high school I hated my English classes and loved math, now being a college student I seem to really enjoy English much more than math. English always seemed to be my hardest subject because I just would not understand some of the curriculum but throughout my four years in high school I never got a lower score than a B. My best subjects always seem to be science related, this is because I do well in subjects that I am intrested in. 
   
 
      
